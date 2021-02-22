@@ -9,11 +9,11 @@ See all-in-one colab:
 ## Examples:
 
 ### "Little prince" images
-<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot_20210221-235232_Photos.jpg" width="200"  />
+<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot_20210221-235232_Photos.jpg" width="250"  />
 
 
 ### "Little prince 1"
-![Example 1](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/little_prince%20(1).gif)
+<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/little_prince%20(1).gif" width="250"  />
 
 
 ### With vocalization "Little prince 2"
