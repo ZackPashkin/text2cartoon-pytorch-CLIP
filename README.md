@@ -8,7 +8,7 @@ Making cartoons with subtitles and vocalization from text prompt .
 
 
 ### with vocalization "Little prince 2"
-[![Example 2](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Little_prince__build_a_rocket%20(2).png)](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/res_short.mp4)
+[![Example 2](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://photos.app.goo.gl/W7rC4GPStXgUGHUk9)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ### with vocalization "Little prince 3"
