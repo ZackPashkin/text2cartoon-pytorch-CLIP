@@ -1,7 +1,7 @@
 # text2cartoon-pytorch-CLIP
 Making cartoons with subtitles and vocalization from text prompt . 
 
-see all-in-one colab:
+See all-in-one colab:
 [colab](https://colab.research.google.com/drive/1Q4SsxATMKe7XpbGinIlOFoq4r7XNZUYm?usp=sharing)
 
 
