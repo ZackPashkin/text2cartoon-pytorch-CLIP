@@ -22,7 +22,7 @@ See all-in-one colab:
 
 ### With vocalization "Little prince 3"
 
-[![Example 3](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot%202021-02-23%20at%2001.33.34.png)](https://photos.app.goo.gl/DKzGoajGnDgq84eW8)
+[<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot%202021-02-23%20at%2001.33.34.png" width="250"/>](https://photos.app.goo.gl/DKzGoajGnDgq84eW8)
 
 
 # Reference
