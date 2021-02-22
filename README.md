@@ -1,5 +1,5 @@
 # text2cartoon-pytorch-CLIP
-Making cartoons with subtitles and vocalization from text prompt . 
+Making cartoons with subtitles and vocalization from a text prompt. 
 
 See all-in-one colab:
 [colab](https://colab.research.google.com/drive/1Q4SsxATMKe7XpbGinIlOFoq4r7XNZUYm?usp=sharing)
@@ -22,6 +22,8 @@ See all-in-one colab:
 ### With vocalization "Little prince 3"
 
 [![Example 3](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot%202021-02-23%20at%2001.33.34.png)](https://photos.app.goo.gl/DKzGoajGnDgq84eW8)
+
+
 # Reference
 ##  Deep Sleep https://github.com/lucidrains/big-sleep
 ## OpenAI CLIP https://github.com/openai/CLIP
