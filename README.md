@@ -8,7 +8,7 @@ See all-in-one colab:
 ## Examples:
 
 ### "Little prince" images
-![Example 0](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot_20210221-235232_Photos.jpg)
+![Example 0](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot_20210221-235232_Photos.jpg =250x250)
 
 
 ### "Little prince 1"
