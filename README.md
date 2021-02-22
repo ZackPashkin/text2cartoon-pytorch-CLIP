@@ -2,7 +2,7 @@
 Making cartoons with subtitles and vocalization from text prompt . 
 
 see all-in-one colab:
-[colab](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/Text2cartoonNet_Big_Sleep_%2B_CLIP_%2B_one_more_CLIP_%2B_DeepVoice3_%2B_FFmpeg_v230210_latest.ipynb)
+[colab](https://colab.research.google.com/drive/1Q4SsxATMKe7XpbGinIlOFoq4r7XNZUYm?usp=sharing)
 
 
 ## Examples:
