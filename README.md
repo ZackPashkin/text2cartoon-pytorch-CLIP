@@ -16,7 +16,7 @@ Making cartoons with subtitles and vocalization from text prompt .
 
 ### with vocalization "Little prince 3"
 ![Example 3](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/res_voice.mp4)
-[![Example 2](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://photos.app.goo.gl/W7rC4GPStXgUGHUk9)
+[![Example 2](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot%202021-02-23%20at%2001.33.34.png)](https://photos.app.goo.gl/DKzGoajGnDgq84eW8)
 # Reference
 ##  Deep Sleep https://github.com/lucidrains/big-sleep
 ## OpenAI CLIP https://github.com/openai/CLIP
