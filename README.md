@@ -7,4 +7,4 @@ Making cartoons with subtitles and vocalization from text prompt .
 ## CLIP unspash https://github.com/haltakov/natural-language-image-search
 ## DeepVoice3 https://github.com/r9y9/deepvoice3_pytorch
 
-[![Examples with vocalization](https://photos.app.goo.gl/LGxUGcDi9R9tgwQq7)]
+[![Examples with vocalization](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/little_prince%20(1).gif)]
