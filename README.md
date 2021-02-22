@@ -2,6 +2,9 @@
 Making cartoons with subtitles and vocalization from text prompt . 
 
 ## Examples:
+### "Little prince images"
+![Example 0](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Screenshot_20210221-235232_Photos.jpg)
+
 
 ### "Little prince"
 ![Example 1](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/little_prince%20(1).gif)
