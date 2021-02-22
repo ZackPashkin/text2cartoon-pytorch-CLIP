@@ -17,8 +17,8 @@ See all-in-one colab:
 
 
 ### With vocalization "Little prince 2"
-[![Example 2](https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Little_prince__build_a_rocket%20(2).png){:height="36px" width="36px"}](https://photos.app.goo.gl/W7rC4GPStXgUGHUk9)
-<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Little_prince__build_a_rocket%20(2).png" width="250"  />
+[![Example 2](<img src="https://github.com/ZackPashkin/text2cartoon-pytorch-CLIP/blob/main/examples/Little_prince__build_a_rocket%20(2).png" width="250"  />](https://photos.app.goo.gl/W7rC4GPStXgUGHUk9)
+
 
 ### With vocalization "Little prince 3"
 
