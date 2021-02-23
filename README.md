@@ -2,7 +2,7 @@
 Making cartoons with subtitles and vocalization from a text prompt. 
 
 See all-in-one colab:
-[![Open In Colab](https://colab.research.google.com/drive/1umTKgS4scNy-0EZ61Ahld5Q_ocsOhPZZ?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1umTKgS4scNy-0EZ61Ahld5Q_ocsOhPZZ?usp=sharing)
 
 ## Examples:
 
