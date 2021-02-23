@@ -15,14 +15,14 @@ from pathlib import Path
 from tqdm import tqdm, trange
 from collections import namedtuple
 
-from big_sleep.biggan import BigGAN
-from big_sleep.clip import load, tokenize, normalize_image
+from biggan import BigGAN
+from clip import load, tokenize, normalize_image
 
 from einops import rearrange
 
-from .resample import resample
+from resample import resample
 
-assert torch.cuda.is_available(),
+assert torch.cuda.is_available()
 
 # graceful keyboard interrupt
 
@@ -288,7 +288,7 @@ class Imagine(nn.Module):
         self.text = text
         textpath = self.text.replace(' ','_')[:255]
         if self.save_date_time:
-            textpath = datetime.now().strftime("%y%m%d-%H%M%S-") + textpath
+            textpath = datetime.now().strftime("%H%M%S_") + textpath
 
         self.textpath = textpath
         self.filename = Path(f'./{textpath}.png')
