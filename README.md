@@ -24,9 +24,10 @@ See all-in-one colab:
 
 
 # Reference
-###  Big Sleep https://github.com/lucidrains/big-sleep
-### OpenAI CLIP https://github.com/openai/CLIP
-### CLIP unspash https://github.com/haltakov/natural-language-image-search
-### DeepVoice3 https://github.com/r9y9/deepvoice3_pytorch
+####  Big Sleep https://github.com/lucidrains/big-sleep
+#### OpenAI CLIP https://github.com/openai/CLIP
+#### CLIP unspash https://github.com/haltakov/natural-language-image-search
+#### DeepVoice3 https://github.com/r9y9/deepvoice3_pytorch
+#### GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!) https://arxiv.org/abs/2106.06561 https://github.com/mchong6/GANsNRoses
 
 
